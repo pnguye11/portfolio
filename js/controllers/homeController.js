@@ -1,6 +1,6 @@
 (function(){
 
-  angular.module('myportfolio2')
+  angular.module('myportfolio')
 
     .controller('aboutController', aboutController);
 
